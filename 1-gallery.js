@@ -8,5 +8,5 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
         />
       </a>
     </li>
-    `).join("")}const r=new t(".gallery a",{captionDelay:250,captions:!0,captionsData:"alt"});r.refresh();
+    `).join("")}new t(".gallery a",{captionDelay:250,captions:!0,captionsData:"alt"});
 //# sourceMappingURL=1-gallery.js.map
